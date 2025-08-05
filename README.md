@@ -26,8 +26,6 @@ The game ends when:
 - Difficulty selection
 - Feedback on each guess
 - Play-again option
-- (Optional) High score tracking
-- (Optional) Timer and hint system
 
 ##  How to Run
 
